@@ -3,7 +3,7 @@
 This project proposed to use different models with several pre-processing methods for sentiment prediction. Experiments conducted on two datasets which are Obama and Romney attest the effectiveness of different models.
 
 ### Result
-
+/***
 \begin{table}
  \caption{Effect of deep learning}
   \centering
@@ -23,4 +23,4 @@ This project proposed to use different models with several pre-processing method
   \end{tabular}
   \label{tab:table2}
 \end{table}
-
+***/
